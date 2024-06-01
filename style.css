@@ -1,0 +1,18 @@
+main {
+    width:  70%;
+    margin: auto;
+}
+
+body {
+    background-image: url(kepek/hatterkep5.jpg);
+    background-size: cover;
+}
+tbody {
+    background-color: white;
+}
+thead {
+    background-color: white;
+}
+table {
+    background-color: white;
+}
